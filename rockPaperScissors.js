@@ -4,7 +4,7 @@ const getUserChoice = (userInput) => {
     userInput === "rock" ||
     userInput === "paper" ||
     userInput === "scissors" ||
-    userInput === "sharknado"
+    userInput === "sharknado" // Cheat code
   ) {
     return userInput;
   } else {
